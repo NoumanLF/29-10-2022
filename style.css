@@ -23,3 +23,11 @@
     font-size: 1.5rem;
     margin: 0;
 }
+
+.Github-head{
+    border: 1px solid black;
+}
+.Github-head > p{
+    font-size: 2rem;
+    margin-left: 0.4em;
+}
