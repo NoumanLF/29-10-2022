@@ -24,10 +24,10 @@
     margin: 0;
 }
 
-.Github-head{
+.Git-head{
     border: 1px solid black;
 }
-.Github-head > p{
+.Git-head > p{
     font-size: 2rem;
     margin-left: 0.4em;
 }
