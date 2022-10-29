@@ -1,0 +1,25 @@
+.introduction{
+    background-image: linear-gradient(to right bottom, #f64d24, #f9422d, #fc3635, #ff1046);
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tutorial{
+    margin: 0;
+    font-size: 4rem;
+    color: white;
+    font-weight: bolder;
+}
+.about-me{
+    align-self: flex-start;
+    
+}
+.about-me > p{
+    color: white;
+    font-size: 1.5rem;
+    margin: 0;
+}
